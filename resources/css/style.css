@@ -21,7 +21,14 @@ header--main {
 
 /*LINKS*/
 
-link--cta {
+.link--cta {
     font-size: 16 px;
     color: aquamarine;
+}
+
+/*FOOTER*/
+.footer--copyright {
+    font-size: 21 px;
+    color: gray;
+    text-align right;
 }
